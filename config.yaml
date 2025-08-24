@@ -1,5 +1,6 @@
 filters:
   - name: status
     values: [in-progress, inactive]
+    values: [pending, inactive]
   - name: priority
     values: [high, medium, low]
